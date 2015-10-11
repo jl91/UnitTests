@@ -1,3 +1,5 @@
+create database if not exists messenger;
+use messenger;
 CREATE TABLE `messenger`.`messages` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `user` VARCHAR(45) NOT NULL,

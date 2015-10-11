@@ -1,0 +1,6 @@
+[database]
+
+username = password
+password = username
+dbname = dbname
+host = host
